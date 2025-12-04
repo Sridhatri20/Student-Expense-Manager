@@ -21,7 +21,7 @@ This is a Python-based console application developed to help students manage the
 4. Run:
    python expense_manager.py
 
-## Author
-Sridhatri
+### Author
+Sridhatri Gunupuru
 National Institute of Technology Rourkela
 
