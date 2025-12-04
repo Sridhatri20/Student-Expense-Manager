@@ -23,4 +23,5 @@ This is a Python-based console application developed to help students manage the
 
 ## Author
 Sridhatri
+National Institute of Technology Rourkela
 
